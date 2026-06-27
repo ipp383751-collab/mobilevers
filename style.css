@@ -119,6 +119,16 @@ gap: 25px;
     gap: 25px;
     margin-top: 50px;
 }
+.iconall{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    /* background-color: red ; */
+    margin: auto;
+    margin-top: 50px;
+}
+over
 
 @media (max-width:510px) {
     .divabout{
