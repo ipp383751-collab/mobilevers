@@ -127,8 +127,9 @@ gap: 25px;
     /* background-color: red ; */
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
-over
+
 
 @media (max-width:510px) {
     .divabout{
@@ -172,6 +173,11 @@ over
         /* row-gap: 30px; */
        
     }
-    
+    .iconall{
+        flex-direction: column-reverse;
+    }
+    .imgboss{
+        flex-direction: column-reverse;
+    }
    
 }
